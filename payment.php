@@ -15,9 +15,9 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-          <a class="nav-link" href="best sellers.html">Best Sellers</a>
-          <a class="nav-link" href="Textbooks.html">TextBooks</a>
+          <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+          <a class="nav-link" href="best sellers.php">Best Sellers</a>
+          <a class="nav-link" href="Textbooks.php">TextBooks</a>
           <form class="d-flex">
             <input class="form-control form-control-sm" type="search" placeholder="Search by author,title,publisher,ISBN" aria-label="Search">
             <button class="btn btn-sm btn-primary" type="submit">Search</button>

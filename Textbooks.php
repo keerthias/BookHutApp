@@ -15,9 +15,9 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-link " aria-current="page" href="index.html">Home</a>
-          <a class="nav-link" href="best sellers.html">Best Sellers</a>
-          <a class="nav-link active" href="Textbooks.html">TextBooks</a>
+          <a class="nav-link " aria-current="page" href="index.php">Home</a>
+          <a class="nav-link" href="best sellers.php">Best Sellers</a>
+          <a class="nav-link active" href="Textbooks.php">TextBooks</a>
           <form class="d-flex">
             <input class="form-control form-control-sm" type="search" placeholder="Search by author,title,publisher,ISBN" aria-label="Search">
             <button class="btn btn-sm btn-primary" type="submit">Search</button>
@@ -35,8 +35,8 @@
           <h5 class="card-title">OPERATING SYSTEMS</h5>
           <p class="card-text">VIVEK BAMBRI</p>
           <p class="card-text">Rs 240 </p>
-          <a href="payment.html" class="btn btn-danger">Buy Now</a>
-          <a href="payment.html" class="btn btn-primary">Add to Wish List</a>
+          <a href="payment.php" class="btn btn-danger">Buy Now</a>
+                <a href="payment.php" class="btn btn-primary">Add to Wish List</a>
         </div>
       </div>
     </div>
@@ -47,8 +47,8 @@
           <h5 class="card-title">Learning OpenCV3</h5>
           <p class="card-text">Computer Vision in C++ with OpenCv Library</p>
           <p class="card-text">Rs 225 </p>
-          <a href="payment.html" class="btn btn-danger">Buy Now</a>
-          <a href="payment.html" class="btn btn-primary">Add to Wish List</a>
+          <a href="payment.php" class="btn btn-danger">Buy Now</a>
+                <a href="payment.php" class="btn btn-primary">Add to Wish List</a>
         </div>
       </div>
     </div>
@@ -59,8 +59,8 @@
           <h5 class="card-title">COMPUTER NETWORKS</h5>
           <p class="card-text">BHUSHAN TRIVEDI</p>
           <p class="card-text">Rs 240 </p>
-          <a href="payment.html" class="btn btn-danger">Buy Now</a>
-          <a href="payment.html" class="btn btn-primary">Add to Wish List</a>
+          <a href="payment.php" class="btn btn-danger">Buy Now</a>
+                <a href="payment.php" class="btn btn-primary">Add to Wish List</a>
         </div>
       </div>
     </div>
@@ -71,8 +71,8 @@
           <h5 class="card-title">COMPUTER SCIENCE WITH PYTHON</h5>
           <p class="card-text">TEXT BOOK FOR CLASS XII </p>
           <p class="card-text">Rs 550 </p>
-          <a href="payment.html" class="btn btn-danger">Buy Now</a>
-          <a href="payment.html" class="btn btn-primary">Add to Wish List</a>
+          <a href="payment.php" class="btn btn-danger">Buy Now</a>
+                <a href="payment.php" class="btn btn-primary">Add to Wish List</a>
         </div>
       </div>
     </div>
@@ -83,8 +83,8 @@
           <h5 class="card-title">NCERT MATHEMATICS TEXT BOOK</h5>
           <p class="card-text">FOR CLASS 12</p>
           <p class="card-text">Rs 750 </p>
-          <a href="payment.html" class="btn btn-danger">Buy Now</a>
-          <a href="payment.html" class="btn btn-primary">Add to Wish List</a>
+          <a href="payment.php" class="btn btn-danger">Buy Now</a>
+                <a href="payment.php" class="btn btn-primary">Add to Wish List</a>
         </div>
       </div>
     </div>
@@ -95,8 +95,8 @@
           <h5 class="card-title">NCERT PHYSICS TEXT BOOK</h5>
           <p class="card-text">FOR CLASS 12- PART 1 & PART 2</p>
           <p class="card-text">Rs 600 </p>
-          <a href="payment.html" class="btn btn-danger">Buy Now</a>
-          <a href="payment.html" class="btn btn-primary">Add to Wish List</a>
+          <a href="payment.php" class="btn btn-danger">Buy Now</a>
+                <a href="payment.php" class="btn btn-primary">Add to Wish List</a>
         </div>
       </div>
     </div>

@@ -15,9 +15,9 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-              <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-              <a class="nav-link" href="best sellers.html">Best Sellers</a>
-              <a class="nav-link" href="Textbooks.html">TextBooks</a>
+              <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+              <a class="nav-link" href="best sellers.php">Best Sellers</a>
+              <a class="nav-link" href="Textbooks.php">TextBooks</a>
               <form class="d-flex">
                 <input class="form-control form-control-sm" type="search" placeholder="Search by author,title,publisher,ISBN" aria-label="Search">
                 <button class="btn btn-sm btn-primary" type="submit">Search</button>
@@ -71,8 +71,8 @@
                 <h5 class="card-title">Sita Warrior of Mithila</h5>
                 <p class="card-text">Ram Chandra Series Books- Amish</p>
                 <p class="card-text">Rs 240 </p>
-                <a href="payment.html" class="btn btn-danger">Buy Now</a>
-                <a href="payment.html" class="btn btn-primary">Add to Wish List</a>
+                <a href="payment.php" class="btn btn-danger">Buy Now</a>
+                <a href="payment.php" class="btn btn-primary">Add to Wish List</a>
               </div>
             </div>
           </div>
@@ -83,8 +83,8 @@
                 <h5 class="card-title">Legend of Suheldev: The King who saved India</h5>
                 <p class="card-text">An immortal Writers Centre Book-Amish</p>
                 <p class="card-text">Rs 225 </p>
-                <a href="payment.html" class="btn btn-danger">Buy Now</a>
-                <a href="payment.html" class="btn btn-primary">Add to Wish List</a>
+                <a href="payment.php" class="btn btn-danger">Buy Now</a>
+                <a href="payment.php" class="btn btn-primary">Add to Wish List</a>
               </div>
             </div>
           </div>
@@ -95,8 +95,8 @@
                 <h5 class="card-title">Raavan-Enemy of Aryavarta</h5>
                 <p class="card-text">Ram Chandra Series Books- Amish</p>
                 <p class="card-text">Rs 240 </p>
-                <a href="payment.html" class="btn btn-danger">Buy Now</a>
-                <a href="payment.html" class="btn btn-primary">Add to Wish List</a>
+                <a href="payment.php" class="btn btn-danger">Buy Now</a>
+                <a href="payment.php" class="btn btn-primary">Add to Wish List</a>
               </div>
             </div>
           </div>
@@ -107,8 +107,8 @@
                 <h5 class="card-title">Immortals of Meluha</h5>
                 <p class="card-text">Amish Tripathi </p>
                 <p class="card-text">Rs 250 </p>
-                <a href="payment.html" class="btn btn-danger">Buy Now</a>
-                <a href="payment.html" class="btn btn-primary">Add to Wish List</a>
+                <a href="payment.php" class="btn btn-danger">Buy Now</a>
+                <a href="payment.php" class="btn btn-primary">Add to Wish List</a>
               </div>
             </div>
           </div>
@@ -119,8 +119,8 @@
                 <h5 class="card-title">Aarachar</h5>
                 <p class="card-text">K B Meera </p>
                 <p class="card-text">Rs 495 </p>
-                <a href="payment.html" class="btn btn-danger">Buy Now</a>
-                <a href="payment.html" class="btn btn-primary">Add to Wish List</a>
+                <a href="payment.php" class="btn btn-danger">Buy Now</a>
+                <a href="payment.php" class="btn btn-primary">Add to Wish List</a>
               </div>
             </div>
           </div>
@@ -131,8 +131,8 @@
                 <h5 class="card-title">Aadu Jeevitham</h5>
                 <p class="card-text">Benyamin</p>
                 <p class="card-text">Rs 205 </p>
-                <a href="payment.html" class="btn btn-danger">Buy Now</a>
-                <a href="payment.html" class="btn btn-primary">Add to Wish List</a>
+                <a href="payment.php" class="btn btn-danger">Buy Now</a>
+                <a href="payment.php" class="btn btn-primary">Add to Wish List</a>
               </div>
             </div>
           </div>
